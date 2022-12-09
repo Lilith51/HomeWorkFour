@@ -54,7 +54,7 @@
       <module name="homeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Google.*" />
+          <option name="PATTERN" value="Facebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
       <module name="homeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Google.*" />
+          <option name="PATTERN" value="Facebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Google" />
-      <option name="MAIN_CLASS_NAME" value="Google.HomeWorkFour" />
+      <option name="MAIN_CLASS_NAME" value="Facebook.HomeWorkFour" />
       <option name="METHOD_NAME" value="fbTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
