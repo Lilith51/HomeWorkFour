@@ -1,4 +1,4 @@
-package Google;
+package Facebook;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;

@@ -1,4 +1,4 @@
-package Google;
+package Facebook;
 
 import org.junit.Test;
 import com.codeborne.selenide.Condition;
